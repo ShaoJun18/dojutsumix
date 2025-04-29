@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "DojutsuMix",
+    "icon": {
+      "value": "Items.SPIDER_EYE"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Dojutsu",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeright",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoerighttwoleft",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoerightthreetomoeleft",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoerightbaruleft",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.onetomoerightthreetomoeleft.name": "1 Tomoe - 3 Tomoe",
+      "itemGroup.tabdojutsu": "DojutsuMix",
+      "item.onetomoerightbaruleft.name": "1 Tomoe - Baru G",
+      "item.onetomoerighttwoleft.name": "1 Tomoe D - 2 Tomoe G",
+      "item.onetomoeright.name": "1 Tomoe D"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "dojutsumix",
+    "modName": "dojutsumix",
+    "version": "1.0.0",
+    "author": "thema, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.dojutsumix",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
