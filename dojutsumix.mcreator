@@ -184,35 +184,233 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Oneleft",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftbaru",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftcurse",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftemsmadara",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftemssasuke",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftfugaku",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftindra",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftitachi",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftiwa",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftizuna",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftobito",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftketsu",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftmadara",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftnaka",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftrai",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftranmaru",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OneleftSasuke",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onelefttwotomoe",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftthreeleft",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftshin",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Oneleftshisui",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tworighttwoleft",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.onetomoeonetomoe.name": "1 Tomoe - 1 Tomoe",
-      "item.onetomoerai.name": "1 Tomoe - Rai",
-      "item.onetomoeranmaru.name": "1 Tomoe - Ranmaru",
-      "item.onetomoeemssasuke.name": "1 Tomoe - EMS:Sasuke",
+      "item.oneleftemssasuke.name": "EMS:Sasuke - 1 Tomoe",
+      "item.oneleftbaru.name": "Baru - 1 Tomoe",
       "item.onetomoenaka.name": "1 Tomoe - Naka",
-      "item.onetomoerightbaruleft.name": "1 Tomoe - Baru G",
       "itemGroup.tabdojutsu": "DojutsuMix",
       "item.onetomoefugaku.name": "1 Tomoe - Fugaku",
-      "item.onetomoeindra.name": "1 Tomoe - Indra",
       "item.onetomoeright.name": "1 Tomoe D",
       "item.onetomoeshisui.name": "1 Tomoe - Shisui",
       "item.onetomoeitachi.name": "1 Tomoe - Itachi",
-      "item.onetomoeemsmadara.name": "1 Tomoe - EMS:Madara",
-      "item.onetomoeizuna.name": "1 Tomoe - Izuna",
+      "item.oneleftobito.name": "Obito - 1 Tomoe",
+      "item.oneleftmadara.name": "Madara - 1 Tomoe",
+      "item.oneleftketsu.name": "Ketsu - 1 Tomoe",
+      "item.oneleftnaka.name": "Naka",
       "item.onetomoesasuke.name": "1 Tomoe - Sasuke",
       "item.onetomoerightthreetomoeleft.name": "1 Tomoe - 3 Tomoe",
       "item.onetomoecurse.name": "1 Tomoe - Curse",
-      "item.onetomoeshin.name": "1 Tomoe - Shin",
+      "item.oneleft.name": "1 Tomoe G",
       "item.onetomoeiwa.name": "1 Tomoe - ?",
-      "item.onetomoerighttwoleft.name": "1 Tomoe D - 2 Tomoe G",
+      "item.oneleftiwa.name": "? - 1 Tomoe",
+      "item.oneleftrai.name": "Rai - 1 Tomoe",
+      "item.tworighttwoleft.name": "2 Tomoe - 2 Tomoe",
       "item.onetomoemadara.name": "1 Tomoe - Madara",
+      "item.onetomoeonetomoe.name": "1 Tomoe - 1 Tomoe",
+      "item.onetomoerai.name": "1 Tomoe - Rai",
+      "item.onetomoeranmaru.name": "1 Tomoe - Ranmaru",
+      "item.oneleftshin.name": "Shin - 1 Tomoe",
+      "item.onetomoeemssasuke.name": "1 Tomoe - EMS:Sasuke",
+      "item.oneleftranmaru.name": "Ranmaru - 1 Tomoe",
+      "item.onetomoerightbaruleft.name": "1 Tomoe - Baru G",
+      "item.onelefttwotomoe.name": "2 Tomoe - 1 Tomoe",
+      "item.oneleftindra.name": "Indra - 1 Tomoe",
+      "item.oneleftthreeleft.name": "3 Tomoe - 1 Tomoe",
+      "item.onetomoeindra.name": "1 Tomoe - Indra",
+      "item.onetomoeemsmadara.name": "1 Tomoe - EMS:Madara",
+      "item.onetomoeizuna.name": "1 Tomoe - Izuna",
+      "item.oneleftcurse.name": "Curse - 1 Tomoe",
+      "item.oneleftfugaku.name": "Fugaku - 1 Tomoe",
+      "item.onetomoeshin.name": "1 Tomoe - Shin",
+      "item.onetomoerighttwoleft.name": "1 Tomoe  - 2 Tomoe ",
+      "item.oneleftemsmadara.name": "EMS:Madara - 1 Tomoe",
+      "item.oneleftsasuke.name": "Sasuke - 1 Tomoe",
+      "item.oneleftizuna.name": "Izuna - 1 Tomoe",
       "item.onetomoeobito.name": "1 Tomoe - Obito",
-      "item.onetomoeketsu.name": "1 Tomoe _ Ketsu"
+      "item.onetomoeketsu.name": "1 Tomoe - Ketsu",
+      "item.oneleftitachi.name": "Itachi - 1 Tomoe",
+      "item.oneleftshisui.name": "Shisui - 1 Tomoe"
     }
   },
   "workspaceSettings": {

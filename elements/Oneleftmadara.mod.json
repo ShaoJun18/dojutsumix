@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "1droit_ketsugauche:default",
-    "name": "1 Tomoe - Ketsu",
+    "customModelName": "1gauche_madara:default",
+    "name": "Madara - 1 Tomoe",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },
