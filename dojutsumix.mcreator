@@ -40,17 +40,44 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Onetomoecurse",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeemsmadara",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeemssasuke",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.onetomoeemssasuke.name": "1 Tomoe - EMS:Sasuke",
       "item.onetomoerightthreetomoeleft.name": "1 Tomoe - 3 Tomoe",
+      "item.onetomoecurse.name": "1 Tomoe - Curse",
       "itemGroup.tabdojutsu": "DojutsuMix",
       "item.onetomoerightbaruleft.name": "1 Tomoe - Baru G",
       "item.onetomoerighttwoleft.name": "1 Tomoe D - 2 Tomoe G",
-      "item.onetomoeright.name": "1 Tomoe D"
+      "item.onetomoeright.name": "1 Tomoe D",
+      "item.onetomoeemsmadara.name": "1 Tomoe - EMS:MADARA"
     }
   },
   "workspaceSettings": {
