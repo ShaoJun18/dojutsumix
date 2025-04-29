@@ -96,24 +96,123 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Onetomoeizuna",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeobito",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeketsu",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoemadara",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoenaka",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoerai",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeranmaru",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoesasuke",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeonetomoe",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeshin",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Onetomoeshisui",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.onetomoeonetomoe.name": "1 Tomoe - 1 Tomoe",
+      "item.onetomoerai.name": "1 Tomoe - Rai",
+      "item.onetomoeranmaru.name": "1 Tomoe - Ranmaru",
       "item.onetomoeemssasuke.name": "1 Tomoe - EMS:Sasuke",
+      "item.onetomoenaka.name": "1 Tomoe - Naka",
       "item.onetomoerightbaruleft.name": "1 Tomoe - Baru G",
       "itemGroup.tabdojutsu": "DojutsuMix",
       "item.onetomoefugaku.name": "1 Tomoe - Fugaku",
       "item.onetomoeindra.name": "1 Tomoe - Indra",
       "item.onetomoeright.name": "1 Tomoe D",
+      "item.onetomoeshisui.name": "1 Tomoe - Shisui",
       "item.onetomoeitachi.name": "1 Tomoe - Itachi",
       "item.onetomoeemsmadara.name": "1 Tomoe - EMS:Madara",
+      "item.onetomoeizuna.name": "1 Tomoe - Izuna",
+      "item.onetomoesasuke.name": "1 Tomoe - Sasuke",
       "item.onetomoerightthreetomoeleft.name": "1 Tomoe - 3 Tomoe",
       "item.onetomoecurse.name": "1 Tomoe - Curse",
+      "item.onetomoeshin.name": "1 Tomoe - Shin",
       "item.onetomoeiwa.name": "1 Tomoe - ?",
-      "item.onetomoerighttwoleft.name": "1 Tomoe D - 2 Tomoe G"
+      "item.onetomoerighttwoleft.name": "1 Tomoe D - 2 Tomoe G",
+      "item.onetomoemadara.name": "1 Tomoe - Madara",
+      "item.onetomoeobito.name": "1 Tomoe - Obito",
+      "item.onetomoeketsu.name": "1 Tomoe _ Ketsu"
     }
   },
   "workspaceSettings": {

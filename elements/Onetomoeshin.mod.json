@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "1droit_iwagauche:default",
-    "name": "1 Tomoe - ?",
+    "customModelName": "1droit_shingauche:default",
+    "name": "1 Tomoe - Shin",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },
