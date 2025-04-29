@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "1droit_emsmadaragauche:default",
-    "name": "1 Tomoe - EMS:Madara",
+    "customModelName": "1droit_itachigauche:default",
+    "name": "1 Tomoe - Itachi",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsu"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,
