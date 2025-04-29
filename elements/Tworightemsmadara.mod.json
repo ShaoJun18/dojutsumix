@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "2tomoe:default",
-    "name": "Paires 2 Tomoe",
+    "customModelName": "2droite_emsmadara:default",
+    "name": "2 Tomoe - EMS:Madara",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },

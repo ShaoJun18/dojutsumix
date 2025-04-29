@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tout_small"
+      },
+      "name": "default"
+    }
+  }
+}

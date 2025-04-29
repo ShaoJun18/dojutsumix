@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "2tomoe:default",
-    "name": "Paires 2 Tomoe",
+    "customModelName": "1droit_3gauche:default",
+    "name": "2 Tomoe - 3 Tomoe",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },
