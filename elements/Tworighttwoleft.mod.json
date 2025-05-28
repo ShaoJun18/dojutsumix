@@ -5,9 +5,9 @@
     "renderType": 1,
     "texture": "vide",
     "customModelName": "2tomoe:default",
-    "name": "Paires 2 Tomoe",
+    "name": "2 Tomoe",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsu"
+      "value": "CUSTOM:Dojutsupaires"
     },
     "stackSize": 64,
     "enchantability": 0,

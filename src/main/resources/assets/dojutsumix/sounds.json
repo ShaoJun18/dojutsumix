@@ -1,1 +1,479 @@
-{}
+{
+  "chakraflow": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:chakraflow",
+        "stream": false
+      }
+    ]
+  },
+  "shukaku_roar": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:1tails_roar",
+        "stream": false
+      }
+    ]
+  },
+  "amaterasu_sasuke": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:amaterasu",
+        "stream": false
+      }
+    ]
+  },
+  "amaterasu_itachi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:amaterasu2",
+        "stream": false
+      }
+    ]
+  },
+  "amaterasu_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:mangekyoitachi1",
+        "stream": false
+      }
+    ]
+  },
+  "bijudama": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:bijudama",
+        "stream": false
+      }
+    ]
+  },
+  "byakugan1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:byakugan1",
+        "stream": false
+      }
+    ]
+  },
+  "byakugan2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:byakugan2",
+        "stream": false
+      }
+    ]
+  },
+  "byakugan3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:byakugan3",
+        "stream": false
+      }
+    ]
+  },
+  "charging_chakra": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:charging_chakra",
+        "stream": false
+      }
+    ]
+  },
+  "chidori": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:chidori",
+        "stream": false
+      }
+    ]
+  },
+  "ding": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ding",
+        "stream": false
+      }
+    ]
+  },
+  "flamethrow": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:flamethrow",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_decopin_shot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_decopin_shot",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_finger_laser": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_finger_laser",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_groundshock": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_groundshock",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_hakai_charge_ground": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_hakai_charge_ground",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_hakai_charge_hand": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_hakai_charge_hand",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_hand_press": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_hand_press",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_nagiharai": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_nagiharai",
+        "stream": false
+      }
+    ]
+  },
+  "gal_se_swing": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gal_se_swing",
+        "stream": false
+      }
+    ]
+  },
+  "gyuki_roar": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:gyuki_roar",
+        "stream": false
+      }
+    ]
+  },
+  "ice_formation": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ice_formation",
+        "stream": false
+      }
+    ]
+  },
+  "ice_shoot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ice_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "ice_shoot_small": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ice_shoot_small",
+        "stream": false
+      }
+    ]
+  },
+  "isobu_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:isobu_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "isobu_roar": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:isobu_roar",
+        "stream": false
+      }
+    ]
+  },
+  "jutsu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:jutsu",
+        "stream": false
+      }
+    ]
+  },
+  "kagebushin": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kagebushin",
+        "stream": false
+      }
+    ]
+  },
+  "kamui": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kamui_sound_efect_",
+        "stream": false
+      }
+    ]
+  },
+  "ketsu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ketsu",
+        "stream": false
+      }
+    ]
+  },
+  "kyuubi_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kyuubi_death",
+        "stream": false
+      }
+    ]
+  },
+  "kyuubi_howl": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kyuubi_howl",
+        "stream": false
+      }
+    ]
+  },
+  "laser_long": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:laser_long",
+        "stream": false
+      }
+    ]
+  },
+  "lightning_shoot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:lightning_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "msitachi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:mangekyoitachi2",
+        "stream": false
+      }
+    ]
+  },
+  "mskakashi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:mangekyokakashi",
+        "stream": false
+      }
+    ]
+  },
+  "matatabi_roar1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:matatabi_roar1",
+        "stream": false
+      }
+    ]
+  },
+  "matatabi_roar2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:matatabi_roar2",
+        "stream": false
+      }
+    ]
+  },
+  "monstergrowl": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:monster_growl",
+        "stream": false
+      }
+    ]
+  },
+  "rinnegan": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rinnegan",
+        "stream": false
+      }
+    ]
+  },
+  "rinneganpower": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rinneganpower",
+        "stream": false
+      }
+    ]
+  },
+  "bijuu_roar": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:roar",
+        "stream": false
+      }
+    ]
+  },
+  "sharingan1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sharingan1",
+        "stream": false
+      }
+    ]
+  },
+  "sharingan2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sharingan2",
+        "stream": false
+      }
+    ]
+  },
+  "sharingan3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sharingansfx",
+        "stream": false
+      }
+    ]
+  },
+  "swoosh": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:swoosh",
+        "stream": false
+      }
+    ]
+  },
+  "waterblast": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:waterblast",
+        "stream": false
+      }
+    ]
+  },
+  "waterfall": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:waterfall",
+        "stream": false
+      }
+    ]
+  },
+  "waterstream": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:waterstream",
+        "stream": false
+      }
+    ]
+  },
+  "wind": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:wind",
+        "stream": false
+      }
+    ]
+  },
+  "windblast": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:windblast",
+        "stream": false
+      }
+    ]
+  },
+  "windecho": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:windecho",
+        "stream": false
+      }
+    ]
+  }
+}

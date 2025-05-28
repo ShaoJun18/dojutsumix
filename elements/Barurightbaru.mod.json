@@ -5,9 +5,9 @@
     "renderType": 1,
     "texture": "vide",
     "customModelName": "baru:default",
-    "name": "Paires Baru",
+    "name": "Baru",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsu"
+      "value": "CUSTOM:Dojutsupaires"
     },
     "stackSize": 64,
     "enchantability": 0,

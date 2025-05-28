@@ -7,9 +7,9 @@
 	"elements": [
 		{
 			"name": "droite",
-			"from": [9.5, 2.4, 15],
-			"to": [12.5, 5.4, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 2.4, 15]},
+            "from": [9.5, 2.55, 14.9],
+            "to": [12.5, 5.5, 15.9],
+            "rotation": {"angle": 0, "axis": "y", "origin": [9.55, 2.5, 14.9]},
 			"faces": {
 				"north": {"uv": [3.20062, 0.00747, 4.79462, 1.60147], "texture": "#0"},
 				"east": {"uv": [3.20062, 0.00436, 4.02974, 1.60109], "texture": "#0"},
@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "gauche",
-			"from": [2.6, 2.4, 15],
-			"to": [5.6, 5.4, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [2.6, 2.4, 15]},
+            "from": [3.5, 2.55, 14.9],
+            "to": [6.5, 5.5, 15.9],
+            "rotation": {"angle": 0, "axis": "y", "origin": [3.55, 2.5, 14.9]},
 			"faces": {
 				"north": {"uv": [14.40436, 4.80404, 15.99876, 6.39804], "texture": "#0"},
 				"east": {"uv": [14.41868, 4.81276, 15.14192, 5.0864], "texture": "#0"},
@@ -35,10 +35,10 @@
 		},
 		{
 			"name": "sang G",
-			"from": [4.1, 0.5, 15],
-			"to": [4.6, 1, 16],
+			"from": [5, 0.5, 15],
+			"to": [5.5, 1, 16],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.9, 0, 0]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [14.09708, 6.37758, 14.15889, 6.11501], "rotation": 270, "texture": "#0"},
 				"east": {"uv": [14.01563, 6.37758, 13.84215, 6.16695], "rotation": 270, "texture": "#0"},
@@ -50,10 +50,10 @@
 		},
 		{
 			"name": "Sang G",
-			"from": [3.6, 1.5, 15],
-			"to": [4.1, 2.5, 16],
+			"from": [4.5, 1.5, 15],
+			"to": [5, 2.5, 16],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.9, 0, 0]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [14.09708, 6.37758, 14.15889, 6.11501], "rotation": 270, "texture": "#0"},
 				"east": {"uv": [14.01563, 6.37758, 13.84215, 6.16695], "rotation": 270, "texture": "#0"},
@@ -65,10 +65,10 @@
 		},
 		{
 			"name": "Sang G",
-			"from": [2.6, 0.5, 15],
-			"to": [3.1, 2.5, 16],
+			"from": [3.5, 0.5, 15],
+			"to": [4, 2.5, 16],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.9, 0, 0]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [14.09708, 6.37758, 14.15889, 6.11501], "rotation": 270, "texture": "#0"},
 				"east": {"uv": [14.01563, 6.37758, 13.84215, 6.16695], "rotation": 270, "texture": "#0"},
@@ -80,10 +80,10 @@
 		},
 		{
 			"name": "Sang G",
-			"from": [2.6, 2, 15],
-			"to": [4.6, 2.5, 16],
+			"from": [3.5, 2, 15],
+			"to": [5.5, 2.5, 16],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [-0.9, 0, 0]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [14.09708, 6.37758, 14.15889, 6.11501], "rotation": 270, "texture": "#0"},
 				"east": {"uv": [14.01563, 6.37758, 13.84215, 6.16695], "rotation": 270, "texture": "#0"},

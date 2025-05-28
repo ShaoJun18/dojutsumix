@@ -12,7 +12,7 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
-import net.mcreator.dojutsumix.creativetab.TabDojutsu;
+import net.mcreator.dojutsumix.creativetab.TabDojutsuLeft;
 import net.mcreator.dojutsumix.ElementsDojutsumix;
 
 @ElementsDojutsumix.ModElement.Tag
@@ -39,7 +39,7 @@ public class ItemTwoleft extends ElementsDojutsumix.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("twoleft");
 			setRegistryName("twoleft");
-			setCreativeTab(TabDojutsu.tab);
+			setCreativeTab(TabDojutsuLeft.tab);
 		}
 
 		@Override

@@ -2,9 +2,9 @@
   "_fv": 6,
   "_type": "tab",
   "definition": {
-    "name": "DojutsuMix",
+    "name": "[DojutsuMix] Global",
     "icon": {
-      "value": "Items.SPIDER_EYE"
+      "value": "CUSTOM:Creativetablogo"
     },
     "showSearch": true
   }

@@ -816,92 +816,755 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Baruright3tomoe",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Barurightshin",
+      "type": "item",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Barurightshisui",
+      "type": "item",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treeright",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treeleft",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DojutsuRight",
+      "type": "tab",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treerightbaru",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DojutsuLeft",
+      "type": "tab",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Baruleft",
+      "type": "item",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightcurse",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightemsmadara",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dojutsupaires",
+      "type": "tab",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Twotomoeright",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerighttreetomoe",
+      "type": "item",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Creativetablogo",
+      "type": "item",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightemssasuke",
+      "type": "item",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightfugaku",
+      "type": "item",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightindra",
+      "type": "item",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightitachi",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightiwa",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightizuna",
+      "type": "item",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightobito",
+      "type": "item",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightketsu",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightmadara",
+      "type": "item",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightnaka",
+      "type": "item",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightrai",
+      "type": "item",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightranmaru",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Treetomoerightsasuke",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cursepaires",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emsmadarapaires",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emssasukepaires",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Fugakupaire",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Indrapaire",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Itachipaire",
+      "type": "item",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Iwapaire",
+      "type": "item",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Izunapaire",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Obitopaire",
+      "type": "item",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ketsupaire",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Madarapaire",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Nakapaire",
+      "type": "item",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Raipaire",
+      "type": "item",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ranmarupaire",
+      "type": "item",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sasukepaire",
+      "type": "item",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shinpaire",
+      "type": "item",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shisuipaire",
+      "type": "item",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "chakraflow",
+      "file": "chakraflow",
+      "category": "master"
+    },
+    {
+      "name": "shukaku_roar",
+      "file": "1tails_roar",
+      "category": "master"
+    },
+    {
+      "name": "amaterasu_sasuke",
+      "file": "amaterasu",
+      "category": "master"
+    },
+    {
+      "name": "amaterasu_itachi",
+      "file": "amaterasu2",
+      "category": "master"
+    },
+    {
+      "name": "amaterasu_sound",
+      "file": "mangekyoitachi1",
+      "category": "master"
+    },
+    {
+      "name": "bijudama",
+      "file": "bijudama",
+      "category": "master"
+    },
+    {
+      "name": "byakugan1",
+      "file": "byakugan1",
+      "category": "master"
+    },
+    {
+      "name": "byakugan2",
+      "file": "byakugan2",
+      "category": "master"
+    },
+    {
+      "name": "byakugan3",
+      "file": "byakugan3",
+      "category": "master"
+    },
+    {
+      "name": "charging_chakra",
+      "file": "charging_chakra",
+      "category": "master"
+    },
+    {
+      "name": "chidori",
+      "file": "chidori",
+      "category": "master"
+    },
+    {
+      "name": "ding",
+      "file": "ding",
+      "category": "master"
+    },
+    {
+      "name": "flamethrow",
+      "file": "flamethrow",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_decopin_shot",
+      "file": "gal_se_decopin_shot",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_finger_laser",
+      "file": "gal_se_finger_laser",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_groundshock",
+      "file": "gal_se_groundshock",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_hakai_charge_ground",
+      "file": "gal_se_hakai_charge_ground",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_hakai_charge_hand",
+      "file": "gal_se_hakai_charge_hand",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_hand_press",
+      "file": "gal_se_hand_press",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_nagiharai",
+      "file": "gal_se_nagiharai",
+      "category": "master"
+    },
+    {
+      "name": "gal_se_swing",
+      "file": "gal_se_swing",
+      "category": "master"
+    },
+    {
+      "name": "gyuki_roar",
+      "file": "gyuki_roar",
+      "category": "master"
+    },
+    {
+      "name": "ice_formation",
+      "file": "ice_formation",
+      "category": "master"
+    },
+    {
+      "name": "ice_shoot",
+      "file": "ice_shoot",
+      "category": "master"
+    },
+    {
+      "name": "ice_shoot_small",
+      "file": "ice_shoot_small",
+      "category": "master"
+    },
+    {
+      "name": "isobu_hurt",
+      "file": "isobu_hurt",
+      "category": "master"
+    },
+    {
+      "name": "isobu_roar",
+      "file": "isobu_roar",
+      "category": "master"
+    },
+    {
+      "name": "jutsu",
+      "file": "jutsu",
+      "category": "master"
+    },
+    {
+      "name": "kagebushin",
+      "file": "kagebushin",
+      "category": "master"
+    },
+    {
+      "name": "kamui",
+      "file": "kamui_sound_efect_",
+      "category": "master"
+    },
+    {
+      "name": "ketsu",
+      "file": "ketsu",
+      "category": "master"
+    },
+    {
+      "name": "kyuubi_death",
+      "file": "kyuubi_death",
+      "category": "master"
+    },
+    {
+      "name": "kyuubi_howl",
+      "file": "kyuubi_howl",
+      "category": "master"
+    },
+    {
+      "name": "laser_long",
+      "file": "laser_long",
+      "category": "master"
+    },
+    {
+      "name": "lightning_shoot",
+      "file": "lightning_shoot",
+      "category": "master"
+    },
+    {
+      "name": "msitachi",
+      "file": "mangekyoitachi2",
+      "category": "master"
+    },
+    {
+      "name": "mskakashi",
+      "file": "mangekyokakashi",
+      "category": "master"
+    },
+    {
+      "name": "matatabi_roar1",
+      "file": "matatabi_roar1",
+      "category": "master"
+    },
+    {
+      "name": "matatabi_roar2",
+      "file": "matatabi_roar2",
+      "category": "master"
+    },
+    {
+      "name": "monstergrowl",
+      "file": "monster_growl",
+      "category": "master"
+    },
+    {
+      "name": "rinnegan",
+      "file": "rinnegan",
+      "category": "master"
+    },
+    {
+      "name": "rinneganpower",
+      "file": "rinneganpower",
+      "category": "master"
+    },
+    {
+      "name": "bijuu_roar",
+      "file": "roar",
+      "category": "master"
+    },
+    {
+      "name": "sharingan1",
+      "file": "sharingan1",
+      "category": "master"
+    },
+    {
+      "name": "sharingan2",
+      "file": "sharingan2",
+      "category": "master"
+    },
+    {
+      "name": "sharingan3",
+      "file": "sharingansfx",
+      "category": "master"
+    },
+    {
+      "name": "swoosh",
+      "file": "swoosh",
+      "category": "master"
+    },
+    {
+      "name": "waterblast",
+      "file": "waterblast",
+      "category": "master"
+    },
+    {
+      "name": "waterfall",
+      "file": "waterfall",
+      "category": "master"
+    },
+    {
+      "name": "waterstream",
+      "file": "waterstream",
+      "category": "master"
+    },
+    {
+      "name": "wind",
+      "file": "wind",
+      "category": "master"
+    },
+    {
+      "name": "windblast",
+      "file": "windblast",
+      "category": "master"
+    },
+    {
+      "name": "windecho",
+      "file": "windecho",
+      "category": "master"
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.tworightrai.name": "2 Tomoe - Rai",
+      "item.cursepaires.name": "Curse",
       "item.twoleftfugaku.name": "Fugaku - 2 Tomoe",
       "item.barurightfugaku.name": "Baru - Fugaku",
+      "item.izunapaire.name": "Izuna",
       "item.tworightfugaku.name": "2 Tomoe - Fugaku",
       "item.twoleftiwa.name": "? - 2 Tomoe",
       "item.twoleftcurse.name": "Curse - 2 Tomoe",
       "item.onetomoesasuke.name": "1 Tomoe - Sasuke",
       "item.onetomoecurse.name": "1 Tomoe - Curse",
       "item.onetomoeiwa.name": "1 Tomoe - ?",
+      "item.ranmarupaire.name": "Ranmaru",
       "item.barurightranmaru.name": "Baru - Ranmaru",
       "item.barurightketsu.name": "Baru - Ketsu",
       "item.barurightemssasuke.name": "Baru - EMS:Sasuke",
       "item.barurightizuna.name": "Baru - Izuna",
+      "item.treetomoerightindra.name": "3 Tomoe - Indra",
       "item.tworightizuna.name": "2 Tomoe - Izuna",
+      "item.treetomoerightiwa.name": "3 Tomoe - ?",
       "item.onetomoeizuna.name": "1 Tomoe - Izuna",
-      "item.twoleftranmaru.name": "Ranmaru - 2 Tomoe",
+      "item.treerightbaru.name": "3 Tomoe - Baru",
+      "item.treeright.name": "3 Tomoe D",
+      "item.indrapaire.name": "Indra",
       "item.oneleftfugaku.name": "Fugaku - 1 Tomoe",
+      "item.twoleftranmaru.name": "Ranmaru - 2 Tomoe",
       "item.onetomoeshin.name": "1 Tomoe - Shin",
+      "item.treetomoerightcurse.name": "3 Tomoe - Curse",
+      "item.treetomoerightsasuke.name": "3 Tomoe - Sasuke",
       "item.oneleftemsmadara.name": "EMS:Madara - 1 Tomoe",
+      "item.emsmadarapaires.name": "EMS:Madara",
       "item.twoleftindra.name": "Indra - 2 Tomoe",
       "item.oneleftizuna.name": "Izuna - 1 Tomoe",
       "item.oneleftemssasuke.name": "EMS:Sasuke - 1 Tomoe",
-      "item.barurightbaru.name": "Paires Baru",
+      "item.barurightbaru.name": "Baru",
       "item.barurightitachi.name": "Baru - Itachi",
       "item.tworightonetomoe.name": "2 Tomoe - 1 Tomoe",
       "item.barurightmadara.name": "Baru - Madara",
       "item.tworightshisui.name": "2 Tomoe - Shisui",
+      "item.shinpaire.name": "Shin",
       "item.onetomoeitachi.name": "1 Tomoe - Itachi",
       "item.oneleftobito.name": "Obito - 1 Tomoe",
       "item.twoleftshin.name": "Shin - 2 Tomoe",
       "item.oneleftnaka.name": "Naka",
+      "item.creativetablogo.name": "Creativetablogo",
       "item.twoleftizuna.name": "Izuna - 2 Tomoe",
       "item.twoleft.name": "2 Tomoe G",
+      "item.baruleft.name": "Baru G",
       "item.tworightobito.name": "2 Tomoe - Obito",
       "item.onetomoemadara.name": "1 Tomoe - Madara",
+      "item.treetomoerightketsu.name": "3 Tomoe - Ketsu",
       "item.onetomoerightbaruleft.name": "1 Tomoe - Baru G",
       "item.onelefttwotomoe.name": "2 Tomoe - 1 Tomoe",
       "item.oneleftthreeleft.name": "3 Tomoe - 1 Tomoe",
+      "itemGroup.tabdojutsuright": "[DojutsuMix] Oeil Droit",
       "item.onetomoeemsmadara.name": "1 Tomoe - EMS:Madara",
+      "item.treetomoerightranmaru.name": "3 Tomoe - Ranmaru",
+      "item.baruright3tomoe.name": "Baru - 3 Tomoe",
+      "item.madarapaire.name": "Madara",
+      "item.nakapaire.name": "Naka",
       "item.oneleftsasuke.name": "Sasuke - 1 Tomoe",
       "item.tworightranmaru.name": "2 Tomoe - Ranmaru",
-      "itemGroup.tabdojutsu": "DojutsuMix",
+      "itemGroup.tabdojutsu": "[DojutsuMix] Global",
+      "item.obitopaire.name": "Obito",
       "item.onetomoefugaku.name": "1 Tomoe - Fugaku",
       "item.twoleftrai.name": "Rai - 2 Tomoe",
       "item.tworightbaru.name": "2 Tomoe - Baru",
       "item.onetomoeright.name": "1 Tomoe D",
+      "item.treetomoerightitachi.name": "3 Tomoe - Itachi",
+      "item.treetomoerightemssasuke.name": "3 Tomoe - EMS:Sasuke",
+      "item.treetomoerightrai.name": "3 Tomoe - Rai",
       "item.oneleftmadara.name": "Madara - 1 Tomoe",
       "item.tworightemsmadara.name": "2 Tomoe - EMS:Madara",
       "item.tworightiwa.name": "2 Tomoe - ?",
       "item.twoleftketsu.name": "ketsu - 2 Tomoe",
       "item.twoleftsasuke.name": "Sasuke - 2 Tomoe",
+      "item.treetomoerighttreetomoe.name": "3 Tomoe",
+      "item.fugakupaire.name": "Fugaku",
       "item.barurightsasuke.name": "Baru - Sasuke",
       "item.onetomoerai.name": "1 Tomoe - Rai",
       "item.onetomoeranmaru.name": "1 Tomoe - Ranmaru",
       "item.oneleftshin.name": "Shin - 1 Tomoe",
       "item.tworightindra.name": "2 Tomoe - Indra",
       "item.onetomoeemssasuke.name": "1 Tomoe - EMS:Sasuke",
+      "item.barurightshin.name": "Baru - Shin",
+      "item.treetomoerightnaka.name": "3 Tomoe - Naka",
       "item.tworightshin.name": "2 Tomoe - Shin",
+      "item.emssasukepaires.name": "EMS:Sasuke",
       "item.oneleftranmaru.name": "Ranmaru - 1 Tomoe",
       "item.oneleftindra.name": "Indra - 1 Tomoe",
       "item.tworightnaka.name": "2 Tomoe - Naka",
       "item.tworightthreetomoe.name": "2 Tomoe - 3 Tomoe",
       "item.twoleftmadara.name": "Madara - 2 Tomoe",
       "item.barurightcurse.name": "Baru - Curse",
+      "item.treetomoerightizuna.name": "3 Tomoe - Izuna",
       "item.twoleftnaka.name": "Naka - 2 Tomoe",
       "item.tworightitachi.name": "2 Tomoe - Itachi",
       "item.oneleftcurse.name": "Curse - 1 Tomoe",
       "item.barurightindra.name": "Baru - Indra",
+      "item.ketsupaire.name": "Ketsuryugan",
       "item.tworightcurse.name": "2 Tomoe - Curse",
       "item.tworightmadara.name": "2 Tomoe - Madara",
       "item.oneleftitachi.name": "Itachi - 1 Tomoe",
       "item.onetomoeobito.name": "1 Tomoe - Obito",
       "item.oneleftbaru.name": "Baru - 1 Tomoe",
       "item.onetomoenaka.name": "1 Tomoe - Naka",
+      "item.treetomoerightemsmadara.name": "3 Tomoe - EMS:Madara",
+      "item.iwapaire.name": "Pupilles Aveugle",
       "item.onetomoeshisui.name": "1 Tomoe - Shisui",
+      "item.treetomoerightfugaku.name": "3 Tomoe - Fugaku",
       "item.twoleftthree.name": "3 Tomoe - 2 Tomoe",
+      "item.sasukepaire.name": "Sasuke",
       "item.oneleftketsu.name": "Ketsu - 1 Tomoe",
+      "item.raipaire.name": "Rai",
       "item.tworightketsu.name": "2 Tomoe - Ketsu",
       "item.twoleftemssasuke.name": "EMS:Sasuke - 2 Tomoe",
       "item.barurightnaka.name": "Baru - Naka",
+      "item.barurightshisui.name": "Baru - Shisui",
       "item.oneleft.name": "1 Tomoe G",
       "item.onetomoerightthreetomoeleft.name": "1 Tomoe - 3 Tomoe",
       "item.barurightobito.name": "Baru - Obito",
@@ -910,18 +1573,26 @@
       "item.twoleftobito.name": "Obito - 2 Tomoe",
       "item.oneleftiwa.name": "? - 1 Tomoe",
       "item.oneleftrai.name": "Rai - 1 Tomoe",
-      "item.tworighttwoleft.name": "Paires 2 Tomoe",
+      "item.tworighttwoleft.name": "2 Tomoe",
       "item.tworightemssasuke.name": "2 Tomoe - EMS:Sasuke",
       "item.twoleftshisui.name": "Shisui - 2 Tomoe",
-      "item.onetomoeonetomoe.name": "Paires 1 Tomoe",
+      "item.treetomoerightobito.name": "3 Tomoe - Obito",
+      "item.onetomoeonetomoe.name": "1 Tomoe",
       "item.twoleftbaru.name": "Baru - 2 Tomoe",
+      "item.twotomoeright.name": "2 Tomoe D",
       "item.onetomoeindra.name": "1 Tomoe - Indra",
+      "itemGroup.tabdojutsupaires": "[DojutsuMix] Vrais paires",
       "item.twoleftemsmadara.name": "EMS:Madara - 2 Tomoe",
       "item.barurightemsmadara.name": "Baru - EMS:Madara",
       "item.barurightiwa.name": "Baru - ?",
+      "item.shisuipaire.name": "Shisui",
       "item.tworightsasuke.name": "2 Tomoe - Sasuke",
+      "item.treeleft.name": "3 Tomoe G",
+      "item.itachipaire.name": "Itachi",
       "item.onetomoerighttwoleft.name": "1 Tomoe  - 2 Tomoe ",
+      "item.treetomoerightmadara.name": "3 Tomoe Madara",
       "item.barurightrai.name": "Baru - Rai",
+      "itemGroup.tabdojutsuleft": "[DojutsuMix] Oeil Gauche",
       "item.onetomoeketsu.name": "1 Tomoe - Ketsu",
       "item.oneleftshisui.name": "Shisui - 1 Tomoe"
     }
