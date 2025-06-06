@@ -475,5 +475,257 @@
         "stream": false
       }
     ]
+  },
+  "amaterasu_hit": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:amaterasu_itachi_hit",
+        "stream": false
+      }
+    ]
+  },
+  "corbeau": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:call",
+        "stream": false
+      }
+    ]
+  },
+  "chains1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:chains",
+        "stream": false
+      }
+    ]
+  },
+  "senjutsu_charge": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:charging_sage",
+        "stream": false
+      }
+    ]
+  },
+  "gates_open": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:eight_gates",
+        "stream": false
+      }
+    ]
+  },
+  "genjutsu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:genjutsu",
+        "stream": false
+      }
+    ]
+  },
+  "chains2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:hidansscythechain",
+        "stream": false
+      }
+    ]
+  },
+  "hiraishin": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:hiraishin",
+        "stream": false
+      }
+    ]
+  },
+  "jump": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:jump",
+        "stream": false
+      }
+    ]
+  },
+  "kamui_short": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kamui_suck",
+        "stream": false
+      }
+    ]
+  },
+  "kamui2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kamui2",
+        "stream": false
+      }
+    ]
+  },
+  "demon_kcm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:kurama_mode",
+        "stream": false
+      }
+    ]
+  },
+  "demon_chakramode": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ninetails_mode",
+        "stream": false
+      }
+    ]
+  },
+  "demon_open": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:ninetails_open",
+        "stream": false
+      }
+    ]
+  },
+  "rocks": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rocks",
+        "stream": false
+      }
+    ]
+  },
+  "senjutsu_chargefini": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sage_charge_done",
+        "stream": false
+      }
+    ]
+  },
+  "senjutsu_mode": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sage_mode",
+        "stream": false
+      }
+    ]
+  },
+  "susanoo_stade1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:susanoo_rib",
+        "stream": false
+      }
+    ]
+  },
+  "susanoo_stade2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:susanoo_skeleton",
+        "stream": false
+      }
+    ]
+  },
+  "susanoo_stade3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:susanoo_complete",
+        "stream": false
+      }
+    ]
+  },
+  "susanoo_perfect": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sasuke_perfect",
+        "stream": false
+      }
+    ]
+  },
+  "snake_catch": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:snake_catch",
+        "stream": false
+      }
+    ]
+  },
+  "snake_hiss": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:snake_hiss",
+        "stream": false
+      }
+    ]
+  },
+  "summon_die": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:summon_die",
+        "stream": false
+      }
+    ]
+  },
+  "summon_spawn": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:summoning_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "bijudama_long": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:tailbeast_bomb",
+        "stream": false
+      }
+    ]
+  },
+  "bijudama_explosion": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:tailbeast_bomb_explode",
+        "stream": false
+      }
+    ]
+  },
+  "toadchant": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:toadchant",
+        "stream": false
+      }
+    ]
   }
 }
