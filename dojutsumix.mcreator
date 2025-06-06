@@ -1448,11 +1448,11 @@
   ],
   "language_map": {
     "en_us": {
-      "item.cursepaires.name": "Curse",
       "item.tworightrai.name": "2 Tomoe - Rai",
+      "item.cursepaires.name": "Curse",
       "item.twoleftfugaku.name": "Fugaku - 2 Tomoe",
-      "item.izunapaire.name": "Izuna",
       "item.barurightfugaku.name": "Baru - Fugaku",
+      "item.izunapaire.name": "Izuna",
       "item.tworightfugaku.name": "2 Tomoe - Fugaku",
       "item.twoleftiwa.name": "? - 2 Tomoe",
       "item.twoleftcurse.name": "Curse - 2 Tomoe",
@@ -1469,8 +1469,8 @@
       "item.treetomoerightiwa.name": "3 Tomoe - ?",
       "item.onetomoeizuna.name": "1 Tomoe - Izuna",
       "item.treerightbaru.name": "3 Tomoe - Baru",
-      "item.indrapaire.name": "Indra",
       "item.treeright.name": "3 Tomoe D",
+      "item.indrapaire.name": "Indra",
       "item.oneleftfugaku.name": "Fugaku - 1 Tomoe",
       "item.twoleftranmaru.name": "Ranmaru - 2 Tomoe",
       "item.onetomoeshin.name": "1 Tomoe - Shin",
