@@ -12,15 +12,15 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
-import net.mcreator.dojutsumix.creativetab.TabDojutsupaires;
+import net.mcreator.dojutsumix.creativetab.TabDojutsuLeft;
 import net.mcreator.dojutsumix.ElementsDojutsumix;
 
 @ElementsDojutsumix.ModElement.Tag
-public class ItemEmssasukepaires extends ElementsDojutsumix.ModElement {
-	@GameRegistry.ObjectHolder("dojutsumix:emssasukepaires")
+public class ItemCurseleft extends ElementsDojutsumix.ModElement {
+	@GameRegistry.ObjectHolder("dojutsumix:curseleft")
 	public static final Item block = null;
-	public ItemEmssasukepaires(ElementsDojutsumix instance) {
-		super(instance, 132);
+	public ItemCurseleft(ElementsDojutsumix instance) {
+		super(instance, 169);
 	}
 
 	@Override
@@ -31,15 +31,15 @@ public class ItemEmssasukepaires extends ElementsDojutsumix.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("dojutsumix:emssasukepaires", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("dojutsumix:curseleft", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
 			maxStackSize = 64;
-			setUnlocalizedName("emssasukepaires");
-			setRegistryName("emssasukepaires");
-			setCreativeTab(TabDojutsupaires.tab);
+			setUnlocalizedName("curseleft");
+			setRegistryName("curseleft");
+			setCreativeTab(TabDojutsuLeft.tab);
 		}
 
 		@Override

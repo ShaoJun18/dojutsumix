@@ -9,18 +9,18 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
-import net.mcreator.dojutsumix.creativetab.TabDojutsupaires;
 import net.mcreator.dojutsumix.ElementsDojutsumix;
 
 @ElementsDojutsumix.ModElement.Tag
-public class ItemEmssasukepaires extends ElementsDojutsumix.ModElement {
-	@GameRegistry.ObjectHolder("dojutsumix:emssasukepaires")
+public class ItemEmssasukeshin extends ElementsDojutsumix.ModElement {
+	@GameRegistry.ObjectHolder("dojutsumix:emssasukeshin")
 	public static final Item block = null;
-	public ItemEmssasukepaires(ElementsDojutsumix instance) {
-		super(instance, 132);
+	public ItemEmssasukeshin(ElementsDojutsumix instance) {
+		super(instance, 207);
 	}
 
 	@Override
@@ -31,15 +31,15 @@ public class ItemEmssasukepaires extends ElementsDojutsumix.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("dojutsumix:emssasukepaires", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("dojutsumix:emssasukeshin", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
 			maxStackSize = 64;
-			setUnlocalizedName("emssasukepaires");
-			setRegistryName("emssasukepaires");
-			setCreativeTab(TabDojutsupaires.tab);
+			setUnlocalizedName("emssasukeshin");
+			setRegistryName("emssasukeshin");
+			setCreativeTab(CreativeTabs.MISC);
 		}
 
 		@Override

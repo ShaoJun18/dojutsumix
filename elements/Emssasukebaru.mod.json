@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "emssasuke:default",
-    "name": "EMS:Sasuke",
+    "customModelName": "emssasukedroite_baru:default",
+    "name": "EMS:Sasuke - Baru",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsupaires"
+      "value": "CUSTOM:Dojutsu"
     },
     "stackSize": 64,
     "enchantability": 0,

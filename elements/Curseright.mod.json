@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "emssasuke:default",
-    "name": "EMS:Sasuke",
+    "customModelName": "cursedroit:default",
+    "name": "Curse B",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsupaires"
+      "value": "CUSTOM:DojutsuRight"
     },
     "stackSize": 64,
     "enchantability": 0,

@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "emssasuke:default",
-    "name": "EMS:Sasuke",
+    "customModelName": "cursedroit_itachi:default",
+    "name": "Curse - Itachi",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsupaires"
+      "value": "CUSTOM:Dojutsu"
     },
     "stackSize": 64,
     "enchantability": 0,

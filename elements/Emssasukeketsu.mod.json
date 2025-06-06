@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "vide",
-    "customModelName": "emssasuke:default",
-    "name": "EMS:Sasuke",
+    "customModelName": "emssasukedroite_ketsu:default",
+    "name": "EMS:Sasuke - Ketsu",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsupaires"
+      "value": "CUSTOM:Dojutsu"
     },
     "stackSize": 64,
     "enchantability": 0,
