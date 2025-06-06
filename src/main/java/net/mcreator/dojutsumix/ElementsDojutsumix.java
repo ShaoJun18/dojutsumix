@@ -136,8 +136,6 @@ public class ElementsDojutsumix implements IFuelHandler, IWorldGenerator {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "sharingan1")));
 		sounds.put(new ResourceLocation("dojutsumix", "sharingan2"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "sharingan2")));
-		sounds.put(new ResourceLocation("dojutsumix", "sharingan3"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "sharingan3")));
 		sounds.put(new ResourceLocation("dojutsumix", "swoosh"), new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "swoosh")));
 		sounds.put(new ResourceLocation("dojutsumix", "waterblast"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "waterblast")));
@@ -149,6 +147,8 @@ public class ElementsDojutsumix implements IFuelHandler, IWorldGenerator {
 		sounds.put(new ResourceLocation("dojutsumix", "windblast"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "windblast")));
 		sounds.put(new ResourceLocation("dojutsumix", "windecho"), new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "windecho")));
+		sounds.put(new ResourceLocation("dojutsumix", "sharingan3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "sharingan3")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

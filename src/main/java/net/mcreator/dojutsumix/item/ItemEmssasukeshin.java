@@ -9,10 +9,10 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
+import net.mcreator.dojutsumix.creativetab.TabDojutsu;
 import net.mcreator.dojutsumix.ElementsDojutsumix;
 
 @ElementsDojutsumix.ModElement.Tag
@@ -39,7 +39,7 @@ public class ItemEmssasukeshin extends ElementsDojutsumix.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("emssasukeshin");
 			setRegistryName("emssasukeshin");
-			setCreativeTab(CreativeTabs.MISC);
+			setCreativeTab(TabDojutsu.tab);
 		}
 
 		@Override

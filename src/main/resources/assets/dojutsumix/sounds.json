@@ -404,15 +404,6 @@
       }
     ]
   },
-  "sharingan3": {
-    "category": "master",
-    "sounds": [
-      {
-        "name": "dojutsumix:sharingansfx",
-        "stream": false
-      }
-    ]
-  },
   "swoosh": {
     "category": "master",
     "sounds": [
@@ -472,6 +463,15 @@
     "sounds": [
       {
         "name": "dojutsumix:windecho",
+        "stream": false
+      }
+    ]
+  },
+  "sharingan3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sharingansfx",
         "stream": false
       }
     ]

@@ -2,9 +2,9 @@
   "_fv": 6,
   "_type": "item",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "vide",
-    "customModelName": "Normal",
+    "customModelName": "3tomoedroite_shisui:default",
     "name": "3 Tomoe - Shisui",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"

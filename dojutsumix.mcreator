@@ -1902,11 +1902,6 @@
       "category": "master"
     },
     {
-      "name": "sharingan3",
-      "file": "sharingansfx",
-      "category": "master"
-    },
-    {
       "name": "swoosh",
       "file": "swoosh",
       "category": "master"
@@ -1939,6 +1934,151 @@
     {
       "name": "windecho",
       "file": "windecho",
+      "category": "master"
+    },
+    {
+      "name": "sharingan3",
+      "file": "sharingansfx",
+      "category": "master"
+    },
+    {
+      "name": "amaterasu_hit",
+      "file": "amaterasu_itachi_hit",
+      "category": "master"
+    },
+    {
+      "name": "corbeau",
+      "file": "call",
+      "category": "master"
+    },
+    {
+      "name": "chains1",
+      "file": "chains",
+      "category": "master"
+    },
+    {
+      "name": "senjutsu_charge",
+      "file": "charging_sage",
+      "category": "master"
+    },
+    {
+      "name": "gates_open",
+      "file": "eight_gates",
+      "category": "master"
+    },
+    {
+      "name": "genjutsu",
+      "file": "genjutsu",
+      "category": "master"
+    },
+    {
+      "name": "chains2",
+      "file": "hidansscythechain",
+      "category": "master"
+    },
+    {
+      "name": "hiraishin",
+      "file": "hiraishin",
+      "category": "master"
+    },
+    {
+      "name": "jump",
+      "file": "jump",
+      "category": "master"
+    },
+    {
+      "name": "kamui_short",
+      "file": "kamui_suck",
+      "category": "master"
+    },
+    {
+      "name": "kamui2",
+      "file": "kamui2",
+      "category": "master"
+    },
+    {
+      "name": "demon_kcm",
+      "file": "kurama_mode",
+      "category": "master"
+    },
+    {
+      "name": "demon_chakramode",
+      "file": "ninetails_mode",
+      "category": "master"
+    },
+    {
+      "name": "demon_open",
+      "file": "ninetails_open",
+      "category": "master"
+    },
+    {
+      "name": "rocks",
+      "file": "rocks",
+      "category": "master"
+    },
+    {
+      "name": "senjutsu_chargefini",
+      "file": "sage_charge_done",
+      "category": "master"
+    },
+    {
+      "name": "senjutsu_mode",
+      "file": "sage_mode",
+      "category": "master"
+    },
+    {
+      "name": "susanoo_stade1",
+      "file": "susanoo_rib",
+      "category": "master"
+    },
+    {
+      "name": "susanoo_stade2",
+      "file": "susanoo_skeleton",
+      "category": "master"
+    },
+    {
+      "name": "susanoo_stade3",
+      "file": "susanoo_complete",
+      "category": "master"
+    },
+    {
+      "name": "susanoo_perfect",
+      "file": "sasuke_perfect",
+      "category": "master"
+    },
+    {
+      "name": "snake_catch",
+      "file": "snake_catch",
+      "category": "master"
+    },
+    {
+      "name": "snake_hiss",
+      "file": "snake_hiss",
+      "category": "master"
+    },
+    {
+      "name": "summon_die",
+      "file": "summon_die",
+      "category": "master"
+    },
+    {
+      "name": "summon_spawn",
+      "file": "summoning_spawn",
+      "category": "master"
+    },
+    {
+      "name": "bijudama_long",
+      "file": "tailbeast_bomb",
+      "category": "master"
+    },
+    {
+      "name": "bijudama_explosion",
+      "file": "tailbeast_bomb_explode",
+      "category": "master"
+    },
+    {
+      "name": "toadchant",
+      "file": "toadchant",
       "category": "master"
     }
   ],
