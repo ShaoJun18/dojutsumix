@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "mangekyo",
-    "customModelName": "iwadroite_ranmaru:default",
-    "name": "? - Ranmaru",
+    "customModelName": "nakadroite_obito:default",
+    "name": "Naka - Obito",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },

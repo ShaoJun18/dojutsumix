@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "mangekyo",
-    "customModelName": "iwadroite_ranmaru:default",
-    "name": "? - Ranmaru",
+    "customModelName": "emsmadaradroite:default",
+    "name": "Madara D",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsu"
+      "value": "CUSTOM:DojutsuRight"
     },
     "stackSize": 64,
     "enchantability": 0,

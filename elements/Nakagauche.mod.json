@@ -4,10 +4,10 @@
   "definition": {
     "renderType": 1,
     "texture": "mangekyo",
-    "customModelName": "iwadroite_ranmaru:default",
-    "name": "? - Ranmaru",
+    "customModelName": "nakagauche:default",
+    "name": "Naka G",
     "creativeTab": {
-      "value": "CUSTOM:Dojutsu"
+      "value": "CUSTOM:DojutsuLeft"
     },
     "stackSize": 64,
     "enchantability": 0,

@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "mangekyo",
-    "customModelName": "iwadroite_ranmaru:default",
-    "name": "? - Ranmaru",
+    "customModelName": "madaradroite_sasuke:default",
+    "name": "Madara - Sasuke",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },

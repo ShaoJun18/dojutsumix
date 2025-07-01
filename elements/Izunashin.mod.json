@@ -5,9 +5,9 @@
     "renderType": 1,
     "texture": "mangekyo",
     "customModelName": "izunadroite_shin:default",
-    "name": "Izunashin",
+    "name": "Izuna - Shin",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Dojutsu"
     },
     "stackSize": 64,
     "enchantability": 0,

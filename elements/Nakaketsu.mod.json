@@ -4,8 +4,8 @@
   "definition": {
     "renderType": 1,
     "texture": "mangekyo",
-    "customModelName": "iwadroite_ranmaru:default",
-    "name": "? - Ranmaru",
+    "customModelName": "nakadroite_ketsu:default",
+    "name": "Naka - Ketsu",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
     },

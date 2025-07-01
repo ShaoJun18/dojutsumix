@@ -16,11 +16,11 @@ import net.mcreator.dojutsumix.creativetab.TabDojutsu;
 import net.mcreator.dojutsumix.ElementsDojutsumix;
 
 @ElementsDojutsumix.ModElement.Tag
-public class ItemIzunashin extends ElementsDojutsumix.ModElement {
-	@GameRegistry.ObjectHolder("dojutsumix:izunashin")
+public class ItemMadarashisui extends ElementsDojutsumix.ModElement {
+	@GameRegistry.ObjectHolder("dojutsumix:madarashisui")
 	public static final Item block = null;
-	public ItemIzunashin(ElementsDojutsumix instance) {
-		super(instance, 308);
+	public ItemMadarashisui(ElementsDojutsumix instance) {
+		super(instance, 368);
 	}
 
 	@Override
@@ -31,14 +31,14 @@ public class ItemIzunashin extends ElementsDojutsumix.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("dojutsumix:izunashin", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("dojutsumix:madarashisui", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
 			maxStackSize = 64;
-			setUnlocalizedName("izunashin");
-			setRegistryName("izunashin");
+			setUnlocalizedName("madarashisui");
+			setRegistryName("madarashisui");
 			setCreativeTab(TabDojutsu.tab);
 		}
 

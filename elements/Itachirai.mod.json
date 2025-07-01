@@ -2,9 +2,9 @@
   "_fv": 6,
   "_type": "item",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "mangekyo",
-    "customModelName": "Normal",
+    "customModelName": "itachidroite_rai:default",
     "name": "Itachi - Rai",
     "creativeTab": {
       "value": "CUSTOM:Dojutsu"
