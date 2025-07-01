@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = Dojutsumix.MODID, version = Dojutsumix.VERSION)
 public class Dojutsumix {
 	public static final String MODID = "dojutsumix";
-	public static final String VERSION = "1.0.0";
+	public static final String VERSION = "1.1";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("dojutsumix:a");
 	@SidedProxy(clientSide = "net.mcreator.dojutsumix.ClientProxyDojutsumix", serverSide = "net.mcreator.dojutsumix.ServerProxyDojutsumix")
 	public static IProxyDojutsumix proxy;
