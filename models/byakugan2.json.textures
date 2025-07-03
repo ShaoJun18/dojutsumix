@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "byakugan2"
+      },
+      "name": "default"
+    }
+  }
+}
