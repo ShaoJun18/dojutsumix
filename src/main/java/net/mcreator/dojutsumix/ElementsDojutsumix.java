@@ -198,6 +198,14 @@ public class ElementsDojutsumix implements IFuelHandler, IWorldGenerator {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "bijudama_explosion")));
 		sounds.put(new ResourceLocation("dojutsumix", "toadchant"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "toadchant")));
+		sounds.put(new ResourceLocation("dojutsumix", "rasengan_during"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "rasengan_during")));
+		sounds.put(new ResourceLocation("dojutsumix", "rasengan_start"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "rasengan_start")));
+		sounds.put(new ResourceLocation("dojutsumix", "rasenshuriken"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "rasenshuriken")));
+		sounds.put(new ResourceLocation("dojutsumix", "rasenshuriken_explode"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "rasenshuriken_explode")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

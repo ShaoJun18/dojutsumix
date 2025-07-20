@@ -3930,49 +3930,33 @@
       "ids": {}
     },
     {
-      "name": "Byakugandroite",
-      "type": "item",
-      "sortid": 494,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Byakuganbaru",
-      "type": "item",
-      "sortid": 495,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Byakugancurse",
-      "type": "item",
-      "sortid": 496,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Byakuganemsmadara",
-      "type": "item",
-      "sortid": 497,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Byakuganemssasuke",
-      "type": "item",
-      "sortid": 498,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "Byakugan2Paires",
       "type": "item",
       "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Weapons",
+      "type": "tab",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Katanamistfourreau",
+      "type": "tool",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Katanamistsansfourreau",
+      "type": "tool",
+      "sortid": 502,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -4391,6 +4375,26 @@
       "name": "toadchant",
       "file": "toadchant",
       "category": "master"
+    },
+    {
+      "name": "rasengan_during",
+      "file": "rasengan_during",
+      "category": "master"
+    },
+    {
+      "name": "rasengan_start",
+      "file": "rasengan_start",
+      "category": "master"
+    },
+    {
+      "name": "rasenshuriken",
+      "file": "rasenshuriken",
+      "category": "master"
+    },
+    {
+      "name": "rasenshuriken_explode",
+      "file": "rasenshuriken_explode",
+      "category": "master"
     }
   ],
   "language_map": {
@@ -4399,7 +4403,6 @@
       "item.obitoitachi.name": "Obito - Itachi",
       "item.raisasuke.name": "Rai - Sasuke",
       "item.ketsu3tomoe.name": "Ketsu - 3 Tomoe",
-      "item.byakuganbaru.name": "Byakugan - Baru",
       "item.onetomoesasuke.name": "1 Tomoe - Sasuke",
       "item.shinmadara.name": "Shin - Madara",
       "item.obitoranmaru.name": "Obito - Ranmaru",
@@ -4442,6 +4445,7 @@
       "item.ketsunaka.name": "Ketsu - Naka",
       "item.emssasukeshin.name": "EMS:Sasuke - Shin",
       "item.sasukedroite.name": "Sasuke D",
+      "item.katanamistsansfourreau.name": "Katana Sans fourreau",
       "item.emssasuketreetomoe.name": "EMS:Sasuke - 3 Tomoe",
       "item.sasukeemsmadara.name": "Sasuke - EMS:Madara",
       "item.fugakushin.name": "Fugaku - Shin",
@@ -4457,8 +4461,6 @@
       "item.emssasukebaru.name": "EMS:Sasuke - Baru",
       "item.emssasukeitachi.name": "EMS:Sasuke - Itachi",
       "item.raidroite.name": "Rai D",
-      "item.byakugancurse.name": "Byakugan - Curse",
-      "item.byakugandroite.name": "Byakugan D",
       "item.indrabaru.name": "Indra - Baru",
       "item.madaraemssasuke.name": "Madara - EMS:sasuke",
       "item.ketsuobito.name": "Ketsu - Obito",
@@ -4601,7 +4603,6 @@
       "item.oneleftiwa.name": "? - 1 Tomoe",
       "item.madaradroite.name": "Madara D",
       "item.ranmaruemssasuke.name": "Ranmaru - EMS:Sasuke",
-      "item.byakuganemsmadara.name": "Byakugan - EMS:Madara",
       "item.twoleftshisui.name": "Shisui - 2 Tomoe",
       "item.shinrai.name": "Shin - Rai",
       "item.sasukerai.name": "Sasuke - Rai",
@@ -4813,6 +4814,7 @@
       "item.ketsumadara.name": "Ketsu - Madara",
       "item.treetomoerightranmaru.name": "3 Tomoe - Ranmaru",
       "item.nakarai.name": "Naka- Rai",
+      "itemGroup.tabweapons": "[DojutsuMix] Armes",
       "item.baruright3tomoe.name": "Baru - 3 Tomoe",
       "item.shisui3tomoe.name": "Shisui - 3 Tomoe",
       "item.madarapaire.name": "Madara",
@@ -4883,7 +4885,7 @@
       "item.emsmadararai.name": "EMS:Madara - Rai",
       "item.ranmaruketsu.name": "Ranmaru - Ketsu",
       "item.shisuiizuna.name": "Shisui - Izuna",
-      "item.byakuganemssasuke.name": "Byakugan - EMS:Sasuke",
+      "item.katanamistfourreau.name": "Katana Fourreau",
       "item.itachishin.name": "Itachi - Shin",
       "item.shiniwa.name": "Shin - ?",
       "item.ranmaruindra.name": "Ranmaru - Indra",

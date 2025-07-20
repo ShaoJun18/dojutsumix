@@ -727,5 +727,41 @@
         "stream": false
       }
     ]
+  },
+  "rasengan_during": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rasengan_during",
+        "stream": false
+      }
+    ]
+  },
+  "rasengan_start": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rasengan_start",
+        "stream": false
+      }
+    ]
+  },
+  "rasenshuriken": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rasenshuriken",
+        "stream": false
+      }
+    ]
+  },
+  "rasenshuriken_explode": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:rasenshuriken_explode",
+        "stream": false
+      }
+    ]
   }
 }
