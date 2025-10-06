@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "dojutsumix:blackfire"
+    },
+    "facing=north": {
+      "model": "dojutsumix:blackfire"
+    },
+    "facing=east": {
+      "model": "dojutsumix:blackfire",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dojutsumix:blackfire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dojutsumix:blackfire",
+      "y": 270
+    }
+  }
+}

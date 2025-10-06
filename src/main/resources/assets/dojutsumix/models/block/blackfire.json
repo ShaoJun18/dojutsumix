@@ -1,0 +1,8 @@
+{
+  "parent": "dojutsumix:custom/fire_vanilla",
+  "textures": {
+    "all": "dojutsumix:blocks/fire_black_layer_1",
+    "particle": "dojutsumix:blocks/fire_black_layer_1",
+    "fire": "dojutsumix:blocks/blackfire"
+  }
+}

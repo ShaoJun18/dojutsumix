@@ -1,13 +1,4 @@
 {
-  "chakraflow": {
-    "category": "master",
-    "sounds": [
-      {
-        "name": "dojutsumix:chakraflow",
-        "stream": false
-      }
-    ]
-  },
   "shukaku_roar": {
     "category": "master",
     "sounds": [
@@ -629,15 +620,6 @@
       }
     ]
   },
-  "susanoo_stade1": {
-    "category": "master",
-    "sounds": [
-      {
-        "name": "dojutsumix:susanoo_rib",
-        "stream": false
-      }
-    ]
-  },
   "susanoo_stade2": {
     "category": "master",
     "sounds": [
@@ -760,6 +742,141 @@
     "sounds": [
       {
         "name": "dojutsumix:rasenshuriken_explode",
+        "stream": false
+      }
+    ]
+  },
+  "susanoo_stade1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:susanoo_rib",
+        "stream": false
+      }
+    ]
+  },
+  "iwaitheme": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:iwaitheme",
+        "stream": false
+      }
+    ]
+  },
+  "parolespoil1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:voiceline11",
+        "stream": false
+      }
+    ]
+  },
+  "parolespoil2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:voiceline-2",
+        "stream": false
+      }
+    ]
+  },
+  "musiquehikko": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:musiquehikko",
+        "stream": false
+      }
+    ]
+  },
+  "spear1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:spear1",
+        "stream": false
+      }
+    ]
+  },
+  "spear2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:spear2",
+        "stream": false
+      }
+    ]
+  },
+  "chakraflow": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:chakraflow",
+        "stream": false
+      }
+    ]
+  },
+  "musique_esc": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:esc",
+        "stream": false
+      }
+    ]
+  },
+  "musique_toneri": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:toneri",
+        "stream": false
+      }
+    ]
+  },
+  "musique_sephiroth": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:sephiroth",
+        "stream": false
+      }
+    ]
+  },
+  "musique_queensgardens": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:queensgardens",
+        "stream": false
+      }
+    ]
+  },
+  "musique_dirtmouth": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:dirtmouth",
+        "stream": false
+      }
+    ]
+  },
+  "musique_cityoftears": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:cityoftears",
+        "stream": false
+      }
+    ]
+  },
+  "musique_afternoonkonoha": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dojutsumix:afternoon_in_konoha",
         "stream": false
       }
     ]

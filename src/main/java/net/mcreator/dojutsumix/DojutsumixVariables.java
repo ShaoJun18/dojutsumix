@@ -14,7 +14,6 @@ import net.minecraft.client.Minecraft;
 public class DojutsumixVariables {
 	public static class MapVariables extends WorldSavedData {
 		public static final String DATA_NAME = "dojutsumix_mapvars";
-		public boolean amaterasu = false;
 		public MapVariables() {
 			super(DATA_NAME);
 		}
@@ -25,12 +24,10 @@ public class DojutsumixVariables {
 
 		@Override
 		public void readFromNBT(NBTTagCompound nbt) {
-			amaterasu = nbt.getBoolean("amaterasu");
 		}
 
 		@Override
 		public NBTTagCompound writeToNBT(NBTTagCompound nbt) {
-			nbt.setBoolean("amaterasu", amaterasu);
 			return nbt;
 		}
 

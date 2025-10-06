@@ -54,8 +54,6 @@ public class ElementsDojutsumix implements IFuelHandler, IWorldGenerator {
 	public final List<Supplier<Potion>> potions = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsDojutsumix() {
-		sounds.put(new ResourceLocation("dojutsumix", "chakraflow"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "chakraflow")));
 		sounds.put(new ResourceLocation("dojutsumix", "shukaku_roar"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "shukaku_roar")));
 		sounds.put(new ResourceLocation("dojutsumix", "amaterasu_sasuke"),
@@ -176,8 +174,6 @@ public class ElementsDojutsumix implements IFuelHandler, IWorldGenerator {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "senjutsu_chargefini")));
 		sounds.put(new ResourceLocation("dojutsumix", "senjutsu_mode"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "senjutsu_mode")));
-		sounds.put(new ResourceLocation("dojutsumix", "susanoo_stade1"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "susanoo_stade1")));
 		sounds.put(new ResourceLocation("dojutsumix", "susanoo_stade2"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "susanoo_stade2")));
 		sounds.put(new ResourceLocation("dojutsumix", "susanoo_stade3"),
@@ -206,6 +202,34 @@ public class ElementsDojutsumix implements IFuelHandler, IWorldGenerator {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "rasenshuriken")));
 		sounds.put(new ResourceLocation("dojutsumix", "rasenshuriken_explode"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "rasenshuriken_explode")));
+		sounds.put(new ResourceLocation("dojutsumix", "susanoo_stade1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "susanoo_stade1")));
+		sounds.put(new ResourceLocation("dojutsumix", "iwaitheme"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "iwaitheme")));
+		sounds.put(new ResourceLocation("dojutsumix", "parolespoil1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "parolespoil1")));
+		sounds.put(new ResourceLocation("dojutsumix", "parolespoil2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "parolespoil2")));
+		sounds.put(new ResourceLocation("dojutsumix", "musiquehikko"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musiquehikko")));
+		sounds.put(new ResourceLocation("dojutsumix", "spear1"), new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "spear1")));
+		sounds.put(new ResourceLocation("dojutsumix", "spear2"), new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "spear2")));
+		sounds.put(new ResourceLocation("dojutsumix", "chakraflow"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "chakraflow")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_esc"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_esc")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_toneri"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_toneri")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_sephiroth"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_sephiroth")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_queensgardens"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_queensgardens")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_dirtmouth"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_dirtmouth")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_cityoftears"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_cityoftears")));
+		sounds.put(new ResourceLocation("dojutsumix", "musique_afternoonkonoha"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dojutsumix", "musique_afternoonkonoha")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

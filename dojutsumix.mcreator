@@ -3946,36 +3946,136 @@
       "ids": {}
     },
     {
-      "name": "Katanamistfourreau",
-      "type": "tool",
-      "sortid": 501,
+      "name": "Blackfire",
+      "type": "block",
+      "sortid": 503,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "Katanamistsansfourreau",
+      "name": "Filsours",
       "type": "tool",
-      "sortid": 502,
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ketsupuppet",
+      "type": "item",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Byakugan3",
+      "type": "item",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Katanamist1",
+      "type": "tool",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Katanamist2",
+      "type": "tool",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Hiramekarai",
+      "type": "tool",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Asayami",
+      "type": "tool",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dojutsumixother",
+      "type": "tab",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blood",
+      "type": "fluid",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Byakugandroit",
+      "type": "item",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ByakuganBaru",
+      "type": "item",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Shibukitamerelaputemist",
+      "type": "tool",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackfireEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Enuma",
+      "type": "tool",
+      "sortid": 520,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     }
   ],
-  "variable_elements": [
-    {
-      "name": "amaterasu",
-      "type": "logic",
-      "scope": "map",
-      "value": "false"
-    }
-  ],
+  "variable_elements": [],
   "sound_elements": [
-    {
-      "name": "chakraflow",
-      "file": "chakraflow",
-      "category": "master"
-    },
     {
       "name": "shukaku_roar",
       "file": "1tails_roar",
@@ -4322,11 +4422,6 @@
       "category": "master"
     },
     {
-      "name": "susanoo_stade1",
-      "file": "susanoo_rib",
-      "category": "master"
-    },
-    {
       "name": "susanoo_stade2",
       "file": "susanoo_skeleton",
       "category": "master"
@@ -4395,6 +4490,81 @@
       "name": "rasenshuriken_explode",
       "file": "rasenshuriken_explode",
       "category": "master"
+    },
+    {
+      "name": "susanoo_stade1",
+      "file": "susanoo_rib",
+      "category": "master"
+    },
+    {
+      "name": "iwaitheme",
+      "file": "iwaitheme",
+      "category": "master"
+    },
+    {
+      "name": "parolespoil1",
+      "file": "voiceline11",
+      "category": "master"
+    },
+    {
+      "name": "parolespoil2",
+      "file": "voiceline-2",
+      "category": "master"
+    },
+    {
+      "name": "musiquehikko",
+      "file": "musiquehikko",
+      "category": "master"
+    },
+    {
+      "name": "spear1",
+      "file": "spear1",
+      "category": "master"
+    },
+    {
+      "name": "spear2",
+      "file": "spear2",
+      "category": "master"
+    },
+    {
+      "name": "chakraflow",
+      "file": "chakraflow",
+      "category": "master"
+    },
+    {
+      "name": "musique_esc",
+      "file": "esc",
+      "category": "master"
+    },
+    {
+      "name": "musique_toneri",
+      "file": "toneri",
+      "category": "master"
+    },
+    {
+      "name": "musique_sephiroth",
+      "file": "sephiroth",
+      "category": "master"
+    },
+    {
+      "name": "musique_queensgardens",
+      "file": "queensgardens",
+      "category": "master"
+    },
+    {
+      "name": "musique_dirtmouth",
+      "file": "dirtmouth",
+      "category": "master"
+    },
+    {
+      "name": "musique_cityoftears",
+      "file": "cityoftears",
+      "category": "master"
+    },
+    {
+      "name": "musique_afternoonkonoha",
+      "file": "afternoon_in_konoha",
+      "category": "master"
     }
   ],
   "language_map": {
@@ -4403,6 +4573,7 @@
       "item.obitoitachi.name": "Obito - Itachi",
       "item.raisasuke.name": "Rai - Sasuke",
       "item.ketsu3tomoe.name": "Ketsu - 3 Tomoe",
+      "item.byakuganbaru.name": "Byakugan Baru",
       "item.onetomoesasuke.name": "1 Tomoe - Sasuke",
       "item.shinmadara.name": "Shin - Madara",
       "item.obitoranmaru.name": "Obito - Ranmaru",
@@ -4418,8 +4589,8 @@
       "item.emssasukecurse.name": "EMS:Sasuke - Curse",
       "item.twoleftindra.name": "Indra - 2 Tomoe",
       "item.indragauche.name": "Indra G",
-      "item.itachiranmaru.name": "Itachi - Ranmaru",
       "item.shindroite.name": "Shin D",
+      "item.itachiranmaru.name": "Itachi - Ranmaru",
       "item.barurightmadara.name": "Baru - Madara",
       "item.indraizuna.name": "Indra - Izuna",
       "item.iwashisui.name": "? - Shisui",
@@ -4429,6 +4600,7 @@
       "item.twoleftizuna.name": "Izuna - 2 Tomoe",
       "item.twoleft.name": "2 Tomoe G",
       "item.shisuisasuke.name": "Shisui - Sasuke",
+      "item.ketsupuppet.name": "Ketsuryugan Goinfre",
       "item.iwaemssasuke.name": "? - EMS:Sasuke",
       "item.ranmaruizuna.name": "Ranmaru - Izuna",
       "item.treetomoerightketsu.name": "3 Tomoe - Ketsu",
@@ -4445,7 +4617,6 @@
       "item.ketsunaka.name": "Ketsu - Naka",
       "item.emssasukeshin.name": "EMS:Sasuke - Shin",
       "item.sasukedroite.name": "Sasuke D",
-      "item.katanamistsansfourreau.name": "Katana Sans fourreau",
       "item.emssasuketreetomoe.name": "EMS:Sasuke - 3 Tomoe",
       "item.sasukeemsmadara.name": "Sasuke - EMS:Madara",
       "item.fugakushin.name": "Fugaku - Shin",
@@ -4467,8 +4638,10 @@
       "item.izunaketsu.name": "Izuna - Ketsu",
       "item.ranmarubaru.name": "Ranmaru - Baru",
       "item.obitofugaku.name": "Obito - Fugaku",
+      "item.shibukitamerelaputemist.name": "Shibuki",
       "item.izunadroite.name": "Izuna D",
       "item.cursenaka.name": "Curse - Naka",
+      "item.katanamist1.name": "Katana Fourreau",
       "item.fugakuindra.name": "Fugaku - Indra",
       "item.nakaindra.name": "Naka - Indra",
       "item.twoleftthree.name": "3 Tomoe - 2 Tomoe",
@@ -4595,6 +4768,7 @@
       "item.ranmaruobito.name": "Ranmaru - Obito",
       "item.byakuganpaires.name": "Byakugan",
       "item.treetomoerightfugaku.name": "3 Tomoe - Fugaku",
+      "item.filsours.name": "Double lame",
       "item.emsmadaraiwa.name": "EMS:Madara - ?",
       "item.itachidroite.name": "Itachi D",
       "item.iwagauche.name": "Pupille Aveugle G",
@@ -4614,6 +4788,7 @@
       "item.barurightemsmadara.name": "Baru - EMS:Madara",
       "item.curseindra.name": "Curse - Indra",
       "item.raiizuna.name": "Rai - Izuna",
+      "tile.blackfire.name": "Flamme Noir",
       "item.nakamadara.name": "Naka - Madara",
       "item.iwacurse.name": "? - Curse",
       "item.sasukenaka.name": "Sasuke - Naka",
@@ -4638,6 +4813,7 @@
       "item.twoleftcurse.name": "Curse - 2 Tomoe",
       "item.ranmaru3tomoe.name": "Ranmaru - 3 Tomoe",
       "item.ranmarurai.name": "Ranmaru - Rai",
+      "fluid.blood": "Blood",
       "item.onetomoeiwa.name": "1 Tomoe - ?",
       "item.izuna3tomoe.name": "Izuna - 3 Tomoe",
       "item.baruemssasuke.name": "Baru - EMS:Sasuke",
@@ -4690,13 +4866,16 @@
       "item.madaraemsmadara.name": "Madara - EMS:Madara",
       "item.madarafugaku.name": "Madara - Fugaku",
       "item.shisuiemsmadara.name": "Shisui - EMS:Madara",
+      "itemGroup.tabdojutsumixother": "[Dojutsumix] Other",
       "item.onetomoefugaku.name": "1 Tomoe - Fugaku",
       "item.onetomoeright.name": "1 Tomoe D",
       "item.treetomoerightitachi.name": "3 Tomoe - Itachi",
+      "item.enuma.name": "Enuma",
       "item.emsmadaratreetomoe.name": "EMS:Madara - 3 Tomoe",
       "item.curseright.name": "Curse B",
       "item.oneleftmadara.name": "Madara - 1 Tomoe",
       "item.izunabaru.name": "Izuna - Baru",
+      "item.byakugandroit.name": "Byakugan D",
       "item.twoleftketsu.name": "ketsu - 2 Tomoe",
       "item.fugakuemsmadara.name": "Fugaku - EMS:Madara",
       "item.sasukeobito.name": "Sasuke - Obito",
@@ -4730,6 +4909,7 @@
       "item.indraemsmadara.name": "Indra - EMS:Madara",
       "item.oneleftbaru.name": "Baru - 1 Tomoe",
       "item.emssasukeiwa.name": "EMS:Sasuke - ?",
+      "item.asayami.name": "Asayami",
       "item.izunaemssasuke.name": "Izuna - EMS:Sasuke",
       "item.sasukeranmaru.name": "Sasuke - Ranmaru",
       "item.barurightobito.name": "Baru - Obito",
@@ -4785,8 +4965,10 @@
       "item.itachibaru.name": "Itachi - Baru",
       "item.oneleftemsmadara.name": "EMS:Madara - 1 Tomoe",
       "item.shisuiketsu.name": "Shisui - Ketsu",
+      "item.katanamist2.name": "Katana",
       "item.oneleftizuna.name": "Izuna - 1 Tomoe",
       "item.shisuinaka.name": "Shisui - Naka",
+      "item.byakugan3.name": "Byakugan Sombre",
       "item.barurightbaru.name": "Baru",
       "item.raimadara.name": "Rai - Madara",
       "item.indraitachi.name": "Indra - Itachi",
@@ -4853,6 +5035,7 @@
       "item.iwaketsu.name": "? - Ketsu",
       "item.indrashisui.name": "Indra - Shisui",
       "item.ketsupaire.name": "Ketsuryugan",
+      "item.hiramekarai.name": "Hiramekarai",
       "item.fugakubaru.name": "Fugaku - Baru",
       "item.tworightmadara.name": "2 Tomoe - Madara",
       "item.curseobito.name": "Curse - Obito",
@@ -4885,7 +5068,6 @@
       "item.emsmadararai.name": "EMS:Madara - Rai",
       "item.ranmaruketsu.name": "Ranmaru - Ketsu",
       "item.shisuiizuna.name": "Shisui - Izuna",
-      "item.katanamistfourreau.name": "Katana Fourreau",
       "item.itachishin.name": "Itachi - Shin",
       "item.shiniwa.name": "Shin - ?",
       "item.ranmaruindra.name": "Ranmaru - Indra",
@@ -4899,7 +5081,7 @@
   "workspaceSettings": {
     "modid": "dojutsumix",
     "modName": "dojutsumix",
-    "version": "1.2",
+    "version": "1.4.1",
     "author": "ShaoJun",
     "websiteURL": "https://www.youtube.com/watch?v\u003ddQw4w9WgXcQ",
     "disableForgeVersionCheck": true,

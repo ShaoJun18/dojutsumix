@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "xhibuki1",
+        "1": "xhibuki2"
+      },
+      "name": "default"
+    }
+  }
+}
